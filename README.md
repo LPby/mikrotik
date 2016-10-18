@@ -16,5 +16,3 @@ make settings changes.
 
 and run provided script.
 
-
-
